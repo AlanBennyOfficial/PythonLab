@@ -2,7 +2,7 @@
 
 Files that are uploaded from lab using git
 
-Git Commands: 
+## Git Commands: 
 
 1. git init
 2. git add .
