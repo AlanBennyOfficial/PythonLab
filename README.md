@@ -17,6 +17,7 @@ Files that are uploaded from lab using git
 - git checkout -b "<>"
 - git merge another-branch
 - git config --global --unset-all
+- git config --list
 
 ## View count:
 <div align="center">
