@@ -5,9 +5,10 @@ Files that are uploaded from lab using git
 ## Git Commands: 
 
 1. git init
-2. git add .
-3. git commit .
-4. git push
+2. git pull
+3. git add .
+4. git commit .
+5. git push
 
 
 ## View count:
