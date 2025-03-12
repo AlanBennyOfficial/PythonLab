@@ -14,6 +14,8 @@ Files that are uploaded from lab using git
 - git clone https://github.com/AlanBennyOfficial/PythonLab.git
 - git config --global user.name "username"
 - git config --global user.email "email"
+- git config --local user.name "username" (only sets user for a specific folder)
+- git config --local user.email "email" (only sets user for a specific folder)
 - git checkout -b "<>"
 - git merge another-branch
 - git config --global --unset-all
