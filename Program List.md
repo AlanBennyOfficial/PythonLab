@@ -4,4 +4,5 @@
 2. Perform list operations
 3. Calculate net salary
 4. Prime numbers between range
-5. 
+5. Functions with Lamda
+6. 
