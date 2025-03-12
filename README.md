@@ -20,6 +20,7 @@ Files that are uploaded from lab using git
 - git merge another-branch
 - git config --global --unset-all
 - git config --list
+- git Cheetsheet : https://education.github.com/git-cheat-sheet-education.pdf
 
 ## View count:
 <div align="center">
