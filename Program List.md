@@ -6,3 +6,4 @@
 4. Prime numbers between range
 5. Functions with Lamda
 6. Map function
+7. Fibonacci
