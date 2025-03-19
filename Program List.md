@@ -7,3 +7,5 @@
 5. Functions with Lamda
 6. Map function
 7. Fibonacci
+
+LAB MSE: untill 10 march(including 10th march)
