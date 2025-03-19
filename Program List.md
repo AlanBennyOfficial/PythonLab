@@ -6,7 +6,7 @@
 4. Prime numbers between range
 5. Functions with Lamda
 6. Map function
-7. Fibonacci
+7. Fibonacci using iterator
 8. Outer and Inner Function
 
 
