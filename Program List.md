@@ -7,6 +7,8 @@
 5. Functions with Lamda
 6. Map function
 7. Fibonacci
+8. Outer and Inner Function
+
 
 LAB MSE Portions: contents given in the course webpage untill 10 march (including 10th march)
                   [Course Page](https://manjunathprasad.github.io/manjunathprasad/teaching/)
