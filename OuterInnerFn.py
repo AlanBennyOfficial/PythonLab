@@ -4,6 +4,6 @@ def outer(x):
     return inner
 
 fn = outer(10)
-fn()
+fn()    
 
 
