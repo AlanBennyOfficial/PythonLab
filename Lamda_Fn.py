@@ -16,3 +16,6 @@ print(evens)
 names = ["Alice", "Bob", "Charlie", "David", "Eve"]
 sorted_names = sorted(names, key=lambda x: len(x))
 print(sorted_names)
+
+add_num = lambda a,b:a+b
+print(add_num(5,4))
