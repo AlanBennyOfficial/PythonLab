@@ -10,5 +10,8 @@
 8. Outer and Inner Function
 
 
-LAB MSE Portions: contents given in the course webpage untill 10 march (including 10th march)
-                  [Course Page](https://manjunathprasad.github.io/manjunathprasad/teaching/)
+LAB MSE (9th April) Portions: contents given in the course webpage untill 10 march (including 10th march)
+
+Submit Lab record on 25th (last day 26)
+
+[Course Page](https://manjunathprasad.github.io/manjunathprasad/teaching/)
