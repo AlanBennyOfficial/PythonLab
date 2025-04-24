@@ -1,13 +1,13 @@
 # Lab Record Program List
 
-1. Fibonacci series ✓ - [ x ]
-2. Bank 
-3. Vowels 
-4. Ticket 
-5. Temprature 
+1. Fibonacci series ✓
+2. Bank ✓
+3. Vowels ✓
+4. Ticket ✓
+5. Temprature ✓
 6. Tasklist
-7. Rock paper scissors 
-8. Reverse string 
+7. Rock paper scissors ✓
+8. Reverse string ✓
 9. Registration 
 10. Prime 
 11. Perimeter 
