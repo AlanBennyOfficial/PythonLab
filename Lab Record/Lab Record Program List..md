@@ -1,6 +1,6 @@
 # Lab Record Program List
 
-1. Fibonacci series 
+1. Fibonacci series ✓ - [ x ]
 2. Bank 
 3. Vowels 
 4. Ticket 
