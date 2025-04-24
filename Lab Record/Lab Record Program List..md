@@ -10,8 +10,8 @@
 8. Reverse string ✓
 9. Registration 
 10. Prime 
-11. Perimeter 
-12. Password checker 
+11. Perimeter ✓
+12. Password checker ✓
 13. Palindrome
 14. Marks 
 15. Location 
