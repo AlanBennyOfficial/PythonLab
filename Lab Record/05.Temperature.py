@@ -1,4 +1,4 @@
-t = float(input("Temp: "))
+t = float(input("Temperature: "))
 
 unit = input("°C or °F? ").upper()
 
