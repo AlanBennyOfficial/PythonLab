@@ -14,7 +14,7 @@
 12. Password checker ✓
 13. Palindrome ✓
 14. Marks ✓
-15. Location 
+15. Location ✓
 16. Login 
 17. Function 
 18. Dueday 
