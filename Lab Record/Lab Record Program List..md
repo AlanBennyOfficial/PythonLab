@@ -19,4 +19,4 @@
 17. Function ✓
 18. Dueday ✓
 19. Leap year ✓
-20. Traffic
+20. Traffic ✓
