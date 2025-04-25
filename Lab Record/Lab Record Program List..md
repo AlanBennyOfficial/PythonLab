@@ -16,7 +16,7 @@
 14. Marks ✓
 15. Location ✓
 16. Login ✓
-17. Function 
+17. Function ✓
 18. Dueday 
 19. Leap year 
 20. Traffic
