@@ -5,7 +5,7 @@
 3. Vowels ✓
 4. Ticket ✓
 5. Temprature ✓
-6. Tasklist
+6. Tasklist ✓
 7. Rock paper scissors ✓
 8. Reverse string ✓
 9. Registration 
