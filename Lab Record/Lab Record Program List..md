@@ -8,7 +8,7 @@
 6. Tasklist ✓
 7. Rock paper scissors ✓
 8. Reverse string ✓
-9. Registration 
+9. Registration ✓
 10. Prime 
 11. Perimeter ✓
 12. Password checker ✓
