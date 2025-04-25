@@ -10,6 +10,6 @@ city = input("name:")
 coordinates = get_loc(city)
 
 if coordinates:
-    print(f"{city} located in {coordinates}")
+    print(f"{city} is located in {coordinates}")
 else:
     print(f"{city} not found")
