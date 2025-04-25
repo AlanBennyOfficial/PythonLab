@@ -18,5 +18,5 @@
 16. Login ✓
 17. Function ✓
 18. Dueday ✓
-19. Leap year 
+19. Leap year ✓
 20. Traffic
