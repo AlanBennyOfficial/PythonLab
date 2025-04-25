@@ -12,7 +12,7 @@
 10. Prime ✓
 11. Perimeter ✓
 12. Password checker ✓
-13. Palindrome
+13. Palindrome ✓
 14. Marks 
 15. Location 
 16. Login 
