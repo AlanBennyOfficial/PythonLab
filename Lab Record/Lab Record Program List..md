@@ -13,7 +13,7 @@
 11. Perimeter ✓
 12. Password checker ✓
 13. Palindrome ✓
-14. Marks 
+14. Marks ✓
 15. Location 
 16. Login 
 17. Function 
