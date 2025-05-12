@@ -25,7 +25,7 @@ class PartTimeEmployee(Employee):
     
     def calculate_salary(self, salary):
         HourlyRate = input()
-        return print(f"Salary = {salary*}")
+        return print(f"Salary = {salary}")
 
 class ContractEmployee(Employee):
     def display_info(self):
